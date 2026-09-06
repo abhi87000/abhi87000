@@ -1,6 +1,6 @@
 # Abhishek Gautam
 
-Backend engineer, ~3 years, New Delhi (IST). Java and Spring Boot, mostly in fintech.
+Backend engineer, ~4 years, New Delhi (IST). Java and Spring Boot, mostly in fintech.
 
 I work on the part of a system where correctness *is* the product — money movement,
 settlement, reconciliation, and keeping all of it right when the same event arrives twice.
